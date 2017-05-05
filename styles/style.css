@@ -1,0 +1,104 @@
+
+*{
+	margin: 0;
+    padding: 0;
+}
+
+.navigation{
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 50px;
+    /*border: solid;*/
+	padding: auto;
+	height: 80px;
+	position: static;
+}
+
+
+.nav_buttons{
+	font-family: Luna;
+	/*border: solid;*/
+	height: auto;
+	font-size: 20px;
+	text-align: right;
+	position: relative;
+	clear: right;
+		
+}
+
+.nav_buttons a{
+	text-decoration: none;
+	margin-left: 1%;
+    margin-right: 1%;
+    color:  #d4d1d0;
+    /*border: solid;*/
+
+}
+#logo {
+	font-size: 40px;
+	font-family: Luna;
+	color:  #f8a976;
+	font-weight: bold;
+	text-align: left;
+	padding: 2px;
+	padding-left: 2%;
+	margin-right: 25%;
+}
+
+#right_button{
+	margin-right: 40px;
+}
+
+.pictures{
+	margin: 1%;
+    display:inline-block;
+    text-align: left;
+    font-size: 0.9em;
+    /*border: solid;*/
+    margin:2.9%;
+  
+
+}
+.pictures img{
+	text-align: center;
+}
+
+.main_container{
+	margin-top: 4%;
+	margin-left: 10%;
+	margin-right: 10%;
+	/*border: solid;*/
+}
+
+
+.body{
+    margin: 0 auto;
+    width: 70em;
+}
+.social_media{
+	margin-top: 4%;
+	margin-left: 15%;
+	margin-right: 15%;
+	margin-bottom: 3%;
+	text-align: center;
+}
+.social_media a{
+	text-decoration: none;
+	font-family: Luna;
+	margin-left: 1%;
+	margin-right: 1%;
+	font-size: 20px;
+	color: #e47730;
+	font-weight: bold;a
+	padding-bottom: 0;
+	margin-bottom: 0; 
+}
+.social_media p{
+	font-family: Luna;
+	font-size: 20px;
+	color: #8e7c7c;
+	font-weight: bold;
+	padding-top: 0;
+	margin-top: 0;
+
+}
