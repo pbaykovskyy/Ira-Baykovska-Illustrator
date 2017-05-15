@@ -1,10 +1,13 @@
 
+		/*CSS-Styles for all documents*/
 *{
 	margin: 0;
     padding: 0;
     font-family: Luna;
 }
 
+
+		/* HEADER CSS-Styles*/
 .container{
 	display: flex;
 	flex-direction: row;
@@ -31,12 +34,7 @@
 	color: #f58220;
 	font-size: 25px;
 }
-/*.navbar{
-	display: flex;
-	flex-direction: row;
-	border: 1px solid green;
-	justify-content: space-between;
-}*/
+
 .navbar-buttons{
 	display: flex;
 	flex-direction: row;
@@ -47,6 +45,8 @@
 li{
 	list-style-type: none;
 }
+
+		/* FOOTER CSS-Styles*/
 .main-footer{
 	margin-bottom: 40px;
 }
